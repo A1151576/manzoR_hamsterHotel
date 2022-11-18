@@ -1,0 +1,6 @@
+# manzoR_hamsterHotel2
+
+
+DanDecoito Review 
+The project while viewed through a large viewport is looking pretty good. The overall scaffolding of the website appears similar to the example given. There are issues however. A majority of the isses are due to margin and padding which can all be fixed relatively easily. At large, the images and text all look fited to thier container well and there dosent seem to be any issues there. The biggest issues I noticed where with the Rooms and Reserve content. I noticed that the columns containg the cards within the Rooms container do not have column sized label, that might help with the spacing. The hamster image problem within the reserve could probably be fixed by putting the image within the same container that the header is for that portion. overall the design is close to the expected final product but still needs alot of css styling to be done. 
+The responsivness however is not present. The website only looks well in laptop and up formats. Everything seems to be in containers, which is a start, as alot of content on the page does scale with thier container. But, there is content with fix widths that will break through the containers causing issues within the viewport. definetly on track, but alot of work still neeeded. 
